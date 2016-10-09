@@ -15,8 +15,6 @@ within a minimal number of features, and, in some contexts, identify collinear m
 
 > PCA is probably the most widely-used dimensionality reduction technique.
 
-
-
 ## Details
 
 1. Identifying the center point of dataset
